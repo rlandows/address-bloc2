@@ -78,4 +78,9 @@ def iterative_search(name)
 
   return nil
 end
+
+def nuke
+  @entries = []
+end
+
 end
